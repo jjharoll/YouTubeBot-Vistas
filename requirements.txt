@@ -1,0 +1,6 @@
+requests
+selenium
+PyAutoGUI
+Pillow
+black
+pre-commit
